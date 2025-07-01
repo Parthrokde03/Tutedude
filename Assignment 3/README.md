@@ -1,4 +1,4 @@
-# 🐍 Python Assignment – Mathematical Functions
+# 🐍 Python Assignment 3
 
 ---
 
