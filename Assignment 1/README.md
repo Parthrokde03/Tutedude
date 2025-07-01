@@ -1,4 +1,4 @@
-# 🐍 Python Assignment 1 – Basic Python Concepts
+# 🐍 Python Assignment 1 
 
 --- 
 
