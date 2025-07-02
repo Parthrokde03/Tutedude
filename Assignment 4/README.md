@@ -1,4 +1,4 @@
-## 📄 Assignment 4 
+# Assignment 4 
 
 ### ✅ Task 1: 
 
