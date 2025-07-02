@@ -2,6 +2,7 @@
 
 ### ✅ Task 1: 
 
+### 🔍 Functionality:
 
 - A dictionary is defined with student names as keys and their marks as values.
 - The user is prompted to enter a student name.
@@ -12,6 +13,8 @@
 ---
 
 ### ✅ Task 2: 
+
+### 🔍 Functionality:
 
 - A list of numbers from 1 to 10 is defined.
 - The first five elements are extracted using slicing.
