@@ -7,7 +7,7 @@
 - A dictionary is defined with student names as keys and their marks as values.
 - The user is prompted to enter a student name.
 - If the name is found in the dictionary, the corresponding marks are printed.
-- If not, a "Student not found" message is shown.
+- If not, a Student not found message is shown.
 
 
 ---
